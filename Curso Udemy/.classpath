@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="addERemoverProdutoPoo/src"/>
+	<classpathentry kind="src" path="alturaMedia-Vetor/src"/>
+	<classpathentry kind="src" path="alunoAprovadoReprovadoPoo/src"/>
+	<classpathentry kind="src" path="areaPerimetroDiagonal-RetanguloPoo/src"/>
+	<classpathentry kind="src" path="areaTrianguloPoo/src"/>
+	<classpathentry kind="src" path="assuntoLista-ArrayList/src"/>
+	<classpathentry kind="src" path="Banco/src"/>
+	<classpathentry kind="src" path="contaBancariaPoo/src"/>
+	<classpathentry kind="src" path="dadosDeUmFuncionario-VetorELista/src"/>
+	<classpathentry kind="src" path="dadosDeUmFuncionarioPoo/src"/>
+	<classpathentry kind="src" path="dataEHora/src"/>
+	<classpathentry kind="src" path="Empresa/src"/>
+	<classpathentry kind="src" path="EntradaPedido/src"/>
+	<classpathentry kind="src" path="exercicioMatrizBidimensional/src"/>
+	<classpathentry kind="src" path="funcaoParaString/src"/>
+	<classpathentry kind="src" path="hotelAluguelDeQuarto-Vetor/src"/>
+	<classpathentry kind="src" path="manipulandoDataComCalendar/src"/>
+	<classpathentry kind="src" path="matrizBidimensional/src"/>
+	<classpathentry kind="src" path="pedido/src"/>
+	<classpathentry kind="src" path="precoMedio-Vetor/src"/>
+	<classpathentry kind="src" path="StringBuilder/src"/>
+	<classpathentry kind="src" path="Trabalhador/src"/>
+	<classpathentry kind="output" path="Banco/bin"/>
+</classpath>
